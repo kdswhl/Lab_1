@@ -1,0 +1,20 @@
+add
+name
+1
+3
+
+
+VIP
+
+
+name
+
+13
+
+street
+null
+
+execute_script src/script
+
+
+execute_script src/script2
